@@ -1,8 +1,8 @@
 const works = [
       { id: 13,
         name: 'ReactJS Contact App',
-        img: 'https://github.com/Jfrederick12/React_Web_Portfolio/blob/master/public/images/contactomatic.jpg?raw=true',
-        thumbnail: 'https://github.com/Jfrederick12/React_Web_Portfolio/blob/master/public/images/contactomatic.jpg?raw=true',
+        img: 'https://github.com/Jfrederick12/React_Web_Portfolio/blob/master/public/images/conctactomatic.png?raw=true',
+        thumbnail: 'https://github.com/Jfrederick12/React_Web_Portfolio/blob/master/public/images/conctactomatic.png?raw=true',
         description: 'Practical web application built using ReactJS & NodeJS to demonstrate a contact list that handles filtering, arranging by sort type, folder and search filter. All of the data is pulled from a JSON list and passed through React Components handling the state of the objects.',
         tech: 'ReactJS, NodeJS',
         link: 'https://react-contact-filter.herokuapp.com/'
